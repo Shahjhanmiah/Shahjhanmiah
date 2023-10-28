@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Newspapers**
 
-- 🌱 I’m currently learning **Redux,Abundance Mongodb**
+- 🌱 I’m currently learning **Redux,Advances Mongodb**
 
 - 💬 Ask me about **Html,Css,Boostrap5,TailwindCss,Javascript, React.js,Firebase,node.js,Express.js,Mongodb,jwt token,**
 
