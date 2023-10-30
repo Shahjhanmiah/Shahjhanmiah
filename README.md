@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm My Name is Shahjhan Miah</h1>
+<h1 align="center">Hi , 😊I'm My Name is Shahjhan Miah</h1>
 <h3 align="center">A passionate Mern Stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://markovate.com/wp-content/uploads/2022/08/Top-10-Reasons-To-Choose-MERN-Stack-Development-For-Your-Next-Project_-1280x720px@2x.png" alt="shahjhanmiah" /> </p>
